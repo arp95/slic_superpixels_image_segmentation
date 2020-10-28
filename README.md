@@ -13,15 +13,17 @@ SLIC stands for Simple Linear Iterative Clustering. This is a method used for Su
 
 
 ### Data
-The dataset used is provided in notebooks folder. Five images are used on which the SLIC algorithm is tested.
+The dataset used is provided in notebooks folder. Five images are used on which the SLIC algorithm for Superpixel generation is tested.
 
 
 ### Results
-
+The results obtained after applying SLIC algorithm for Superpixel generation are shown below:<br>
+![Screenshot](outputs/pic1.jpg)
+![Screenshot](outputs/pic2.jpg)
 
 
 ### Software Required
-To run the jupyter notebooks, use Python 3. Standard libraries like Numpy, OpenCV and PyTorch are used.
+To run the jupyter notebooks, use Python 3. Standard libraries like Numpy, Scipy and OpenCV are used.
 
 
 ### Credits
